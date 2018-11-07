@@ -4,7 +4,7 @@ In this project, implemented cryptic messenger application. Users can securely c
 
 All messages are encrypted on the client side. Only the encrypted message is sent to the server. The server is responsible for sending encrypted messages to all clients. Encrypted messages to the clients are decrypted and printed on the screen.
 
-##Software Usage
+## Software Usage
 
 This program is a cryptic messages system that based a graphics user interface based application. The program purpose to encrypted messaging between users.
 To run the program, you must first run the Server.java class. Then the Client.java classes can be run more than once. Program interface is implemented in client class. No interface is required on the server side.
@@ -12,6 +12,8 @@ When the user clicks the connect button, the client connects to the server. The 
 
 ## Preview
 
+![alt text](https://github.com/sefaozdogan/cryptic-messaging/blob/master/ss2.png)
+
 ![alt text](https://github.com/sefaozdogan/cryptic-messaging/blob/master/ss1.png)
 
-![alt text](https://github.com/sefaozdogan/cryptic-messaging/blob/master/ss2.gif)
+
